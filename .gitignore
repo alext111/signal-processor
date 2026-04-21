@@ -2,5 +2,7 @@
 bin/
 
 # Local Data/Logs
-data/*.txt
-data/*.csv
+data/
+
+# Local audio files
+samples/*.wav
